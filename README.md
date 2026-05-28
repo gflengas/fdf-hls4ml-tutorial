@@ -8,8 +8,10 @@
 >
 > ```bash
 > git clone https://github.com/gflengas/fdf-hls4ml-tutorial.git
-> cd FDF-HLS4ML-TUTORIAL
+> cd fdf-hls4ml-tutorial
 > conda env create -f environment.yml
+> source /usr/bin/miniconda3/etc/profile.d/conda.sh
+> conda activate fdf-minimal
 > python -m ipykernel install --user --name fdf-minimal --display-name "Python (fdf-minimal)"
 > ```
 >
