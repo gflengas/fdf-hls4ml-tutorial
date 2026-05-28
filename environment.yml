@@ -1,0 +1,16 @@
+name: fdf-minimal
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - notebook=6.4.12
+  - ipykernel
+  - graphviz
+  - pydot=1.4.2
+  - numpy
+  - matplotlib
+  - scikit-learn=1.2.2
+  - pip:
+      - tensorflow==2.14.0
+      - hls4ml[profiling,qkeras]==1.2.0
