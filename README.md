@@ -7,7 +7,7 @@
 > **Setup instructions**
 >
 > ```bash
-> git clone https://github.com/gflengas/FDF-HLS4ML-TUTORIAL.git
+> git clone https://github.com/gflengas/fdf-hls4ml-tutorial.git
 > cd FDF-HLS4ML-TUTORIAL
 > conda env create -f environment.yml
 > python -m ipykernel install --user --name fdf-minimal --display-name "Python (fdf-minimal)"
