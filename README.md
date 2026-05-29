@@ -20,7 +20,7 @@
 ## Companion Material
 
 We have prepared a set of slides with some introduction and more details on each of the exercises.
-Please find them [here](). 
+Please find them [here](https://indico.cern.ch/event/1690213/attachments/3284274/5870273/FDF-hls4ml%20.pdf). 
 
 ## Notebooks
 
