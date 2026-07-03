@@ -2,4 +2,8 @@
 __pycache__
 *~
 _build
-mnist_cnn_*/
+mnist_cnn_*/**
+!mnist_cnn_qkeras_6bit/**/
+!mnist_cnn_qkeras_6bit/myproject_prj/solution1/syn/report/myproject_csynth.rpt
+!mnist_cnn_pruned/**/
+!mnist_cnn_pruned/myproject_prj/solution1/syn/report/myproject_csynth.rpt
